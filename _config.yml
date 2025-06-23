@@ -1,15 +1,15 @@
 # Basic Information 
-url: "/qlt315.github.io "
-title: Langtian Qin
-position: PhD Student in Computer Science (CS)
+url: "/shanglin.github.io "
+title: Shanglin Yang
+position: PhD Student in Cognitive Science
 affiliation: University of California, Irvine
-affiliation_link: https://ics.uci.edu/
-email: qlt315@126.com / langtiq@uci.edu
+affiliation_link: https://www.cogsci.uci.edu/
+email: shangly2@uci.edu
 
 # Search Engine Optimization (SEO)
-keywords: langtian qin, qin langtian, langtianqin, qinlangtian
-canonical: https://qlt315.github.io/
-description: CS phd student at UC Irvine
+keywords: YangShanglin, Shanglin Yang, Shanglin, Yang Shanglin
+canonical: https://Shanglin-UCI.github.io/
+description: Cognitive Science phd student at UC Irvine
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -18,14 +18,10 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=2gaiM-wAAAAJ
-cv_link: ./assets/CV_LangtianQin.pdf
-github_link: https://github.com/qlt315/
-linkedin: https://www.linkedin.com/in/qlt315/
-# twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=u7iUay8AAAAJ&hl=en
 
 # Images 
-avatar: ./assets/img/qlt.png
+avatar: ./assets/img/me.jpg
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 
