@@ -14,10 +14,6 @@ My research interests lie in **Individual Difference, Visual Masking, Informatio
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/awards.md %}
-
 {% include_relative _includes/services.md %}
 
 
