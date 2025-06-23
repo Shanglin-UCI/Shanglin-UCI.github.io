@@ -10,14 +10,14 @@ main:
   - title: Assessing Two Common Priors of Covariance in Hierarchical Designs
     authors: <Strong>S Yang<\Strong>, JN Rouder
     conference_short: Preprint
-    # conference: 
+    conference: NA 
     pdf: https://osf.io/preprints/psyarxiv/jen65_v1
     image: ./assets/img/BRM2025.png
 
   - title: When Visibility and Priming Have An Inverse Relationship: A successful replication of Vorberg et al, 2003
     authors: <Strong>S Yang<\Strong>, JN Rouder
     conference_short: Preprint
-    # conference: 
+    conference: NA 
     pdf: https://osf.io/preprints/osf/7zfrb_v1
     image: ./assets/img/PBR2025.png
 
