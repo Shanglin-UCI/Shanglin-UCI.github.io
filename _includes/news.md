@@ -4,7 +4,6 @@
 
 <ul>
   <li><strong>[Jun. 2025]</strong> My personal website is now online.</li>
-
 </ul>
 
 <!--
