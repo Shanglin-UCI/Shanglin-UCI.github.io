@@ -6,26 +6,3 @@
   <li><strong>[Jun. 2025]</strong> My personal website is now online.</li>
 </ul>
 
-<!--
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none"> 
-  <li><strong>[Oct. 2023]</strong> I am awarded the National Scholarship.</li>
-
-  <li><strong>[Sep. 2023]</strong> One paper about User-Centric Mobile Edge Computing is accepted by IEEE Transactions on Mobile Computing (TMC).</li>
-
-  <li><strong>[Aug. 2023]</strong> One paper about NOMA-based xURLLC is accepted by IEEE Communications Magazine.</li>
-
-  <li><strong>[Jun. 2023]</strong> Next semester I will join the Department of Electrical and Computer Engineering at UC San Diego as a visiting graduate student.</li>
-
-  <li><strong>[Dec. 2022]</strong> One paper about User-Centric Mobile Edge Computing is accepted by IEEE Communications Magazine.</li>
-
-  <li><strong>[Jun. 2022]</strong> I will join the Broadband Communications Lab at UC Santa Cruz as a summer research intern.</li>
-
-  <li><strong>[Sep. 2021]</strong> I have graduated from XDU! I am awarded the outstanding graduate of XDU.</li>
-
-  <li><strong>[Oct. 2020]</strong> I am awarded the National Scholarship.</li>
-
-  <li><strong>[Oct. 2019]</strong> I am awarded the National Scholarship.</li>
-
-</div>
---!>
