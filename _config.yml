@@ -1,7 +1,7 @@
 # Basic Information 
-url: "/Shanglin-UCI.github.io "
+url: "/Shanglin-UCI.github.io"
 title: Shanglin Yang
-position: PhD Student in Cognitive Science
+position: Ph.D. Student in Cognitive Science
 affiliation: University of California, Irvine
 affiliation_link: https://www.cogsci.uci.edu/
 email: shangly2@uci.edu
@@ -9,7 +9,7 @@ email: shangly2@uci.edu
 # Search Engine Optimization (SEO)
 keywords: YangShanglin, Shanglin Yang, Shanglin, Yang Shanglin
 canonical: https://Shanglin-UCI.github.io/
-description: Cognitive Science phd student at UC Irvine
+description: Ph.D. student in Cognitive Science at the University of California, Irvine
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
