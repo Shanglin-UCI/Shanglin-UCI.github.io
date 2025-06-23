@@ -10,7 +10,7 @@ main:
   - title: Assessing Two Common Priors of Covariance in Hierarchical Designs
     authors: <Strong>S Yang<\Strong>, JN Rouder
     conference_short: Preprint
-    # conference: NA
+    # conference: 
     pdf: https://osf.io/preprints/psyarxiv/jen65_v1
     image: ./assets/img/BRM2025.png
 
