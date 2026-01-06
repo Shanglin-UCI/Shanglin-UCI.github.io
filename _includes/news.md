@@ -4,5 +4,7 @@
 
 <ul>
   <li><strong>[Jun. 2025]</strong> My personal website is now online.</li>
+  <li><strong>[July. 2025]</strong> Poster Presentation at MathPsych 2025.</li>
+  <li><strong>[Nov. 2025]</strong> Poster Presentation at Psychonomics 2025.</li>
 </ul>
 

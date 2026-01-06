@@ -6,7 +6,7 @@ main:
     pdf: https://jov.arvojournals.org/article.aspx?articleid=2802872
     image: ./assets/img/JOV2025.png
 
-  - title: "Assessing Two Common Priors of Covariance in Hierarchical Designs"
+  - title: "Estimating Correlations Across Tasks In Experimental Psychology"
     authors: "<strong>S Yang</strong>, JN Rouder"
     conference_short: Preprint
     conference: "NA"
