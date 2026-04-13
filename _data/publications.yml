@@ -11,16 +11,16 @@ main:
   - title: "Estimating Correlations Across Tasks In Experimental Psychology"
     authors: "<strong>S Yang</strong>, JN Rouder"
     conference_short: BRM
-    conference: "NA"
+    conference: "Behavior Research Methods 58 (4), 100
     pdf: https://link.springer.com/article/10.3758/s13428-026-02990-6
-    image: ./assets/img/cov.jpg
+    image: ./assets/img/cov.png
 
   - title: "When Visibility and Priming Have An Inverse Relationship: A successful replication of Vorberg et al, 2003"
     authors: "<strong>S Yang</strong>, JN Rouder"
     conference_short: Preprint
     conference: "NA"
     pdf: https://osf.io/preprints/osf/7zfrb_v1
-    image: ./assets/img/metamask.jpg
+    image: ./assets/img/metamask.png
 
 
   - title: "Hierarchical Bayesian augmented Hebbian reweighting model of perceptual learning"
@@ -28,5 +28,5 @@ main:
     conference_short: JOV
     conference: "Journal of Vision 25 (4), 9-9"
     pdf: https://jov.arvojournals.org/article.aspx?articleid=2802872
-    image: ./assets/img/ahrm.jpg
+    image: ./assets/img/ahrm.png
 
