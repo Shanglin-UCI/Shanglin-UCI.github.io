@@ -1,5 +1,6 @@
 # Basic Information 
-url: "/Shanglin-UCI.github.io"
+url: "https://shanglin-uci.github.io"
+baseurl: "shanglin-uci.github.io"
 title: Shanglin Yang
 position: Ph.D. Student in Cognitive Science
 affiliation: University of California, Irvine
@@ -42,3 +43,9 @@ exclude:
   - README.md
   - LICENSE
   - CNAME
+
+navigation:
+  - title: Home
+    url: /
+  - title: Notes
+    url: /notes/
